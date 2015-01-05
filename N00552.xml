@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000680_0000_0FA9FF8601B4D038"/>
-            <pb facs="tcp:000680_0001_0FA99EF56DA27EC0"/>
+            <pb facs="unknown:000680_0000_0FA9FF8601B4D038"/>
+            <pb facs="unknown:000680_0001_0FA99EF56DA27EC0"/>
             <p>A Paraphrastical Exposition ON A LETTER From a Gentleman in PHILADELPHIA To his Friend in BOSTON Concerning a certain Person who com<g ref="char:EOLhyphen"/>pared himself to <hi>Mordecai.</hi>
             </p>
             <p>
@@ -127,7 +127,7 @@
       </front>
       <body>
          <div type="proem">
-            <pb facs="tcp:000680_0002_0FA99EF62CEB4C50"/>
+            <pb facs="unknown:000680_0002_0FA99EF62CEB4C50"/>
             <head>Proemium.</head>
             <lg>
                <l>Strange Topsy-Turvey Words I hear of late!</l>
@@ -153,7 +153,7 @@
             </lg>
          </div>
          <div type="poem">
-            <pb n="4" facs="tcp:000680_0003_0FA99EF6F1573DA8"/>
+            <pb n="4" facs="unknown:000680_0003_0FA99EF6F1573DA8"/>
             <head>A Paraphrastical Parrallel bitwixt Haman &amp; Mr.—</head>
             <lg>
                <l>
@@ -212,7 +212,7 @@
             </lg>
             <lg n="6">
                <head>6.</head>
-               <pb n="5" facs="tcp:000680_0004_0FA99EF86F732BC8"/>
+               <pb n="5" facs="unknown:000680_0004_0FA99EF86F732BC8"/>
                <l>
                   <hi>Haman</hi> was no Friend to the <hi>Jewish</hi> Nation,</l>
                <l>But sought to Ruin them by many Plots:</l>
@@ -270,7 +270,7 @@
             </lg>
             <lg n="12">
                <head>12.</head>
-               <pb n="6" facs="tcp:000680_0005_0FA99EF959D5B948"/>
+               <pb n="6" facs="unknown:000680_0005_0FA99EF959D5B948"/>
                <l>
                   <hi>Haman</hi> then quickly grew extreamly Diseas'd</l>
                <l>In's Mind, his Will had not its through <gap reason="illegible: indecipherable" extent="1 word">
@@ -337,7 +337,7 @@
             </lg>
             <lg n="18">
                <head>18.</head>
-               <pb n="7" facs="tcp:000680_0006_0FA99EFB02169778"/>
+               <pb n="7" facs="unknown:000680_0006_0FA99EFB02169778"/>
                <l>
                   <hi>Haman</hi> when at his Hight, began to Fall,</l>
                <l>His Loftiness and Pride soon came to nought:</l>
@@ -378,7 +378,7 @@
                <l>For he that's guilty of what here is writ,</l>
                <l>What horrid Crimes is't he will not commit?</l>
                <l>
-                  <pb n="8" facs="tcp:000680_0007_0FA99EFB6FBD4870"/>
+                  <pb n="8" facs="unknown:000680_0007_0FA99EFB6FBD4870"/>
 But yet I hope by this he'll warning take,</l>
                <l>How he such like Comparisons doth make</l>
                <l>For time to come, seeing hereby he'll find</l>
